@@ -12,7 +12,7 @@
     {text-align: center; font-size: smaller;}
     h2
     {font-size: larger; text-align: center; text-decoration-color: rgb(255, 0, 34);}
-    
+    h3{text-align:left; font-size: small;}
     
 
 
@@ -20,7 +20,7 @@
 
 
       <h2>PIZZERIA</h2>
-  <h1>      123
+  <h3>      <img src="https://image.similarpng.com/very-thumbnail/2020/05/Pizza-logo-vector-PNG.png" 
     <h1>
 123
     </h1>
