@@ -7,26 +7,52 @@
     <body>  
           <style>
         body
-    {background-color:rgba(131, 131, 131, 0.973)}
+    {background-color:rgba(24, 24, 24, 0.973)}
     h1
     {text-align: center; font-size: smaller;}
     h2
     {font-size: larger; text-align: center; text-decoration-color: rgb(255, 0, 34);}
     h3{text-align:left; font-size: small;}
-    
+    td,th{border-style: solid; border-color: rgb(255, 255, 255); background-color: aqua; }
 
 
 </style>
 
 
       <h2>PIZZERIA</h2>
-  <h3>      <img src="https://image.similarpng.com/very-thumbnail/2020/05/Pizza-logo-vector-PNG.png" 
-    <h1>
-123
+  <h1>
+MENU
     </h1>
     <br>
-   <h1>123</h1>
-   <h1> <img src="https://th.bing.com/th/id/OIP.YmXHdmt1PiLbMqu3huXhwwHaE9?w=228&h=180&c=7&r=0&o=5&pid=1.7" alt="nie ma :D"> </center>
+  <center> 
+<table><thead><tr>
+    <th></th>
+    <th>KOLUMNA 1</th>
+    <th>KOLUMNA 2</th>
+    <th>KOLUMNA 3</th>
+
+</tr>
+</thead>
+<tbody>
+    <tr>
+        <th>Dane</th>
+
+    <td>przyklad</td>
+<td>przyklad</td>
+<td>przyklad</td>    
+</tr>
+<th>ez</th>
+<td>super</td>
+<tr>
+    <th>sus</th>
+</tr>
+</tbody></table>
+  </center>
+  <h1> <img src="tenor (1).gif" alt="nie ma :D">
+  <h1> <img src="tenor.gif" alt="nie ma :D">
+  <h1> <img src="55lrtj.gif" alt="nie ma :D">
+  <h1> <img src="R.gif" alt="nie ma :D">
+   <h1> <img src="https://www.pngkey.com/png/detail/10-105533_lean-png.png"  alt="nie ma :D"> </center>
 </h1>
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
