@@ -7,25 +7,31 @@
     <body>  
           <style>
         body
-    {background-color:rgba(24, 24, 24, 0.973)}
+    {background-color: rgb(34, 34, 34);
+        background-image: url('pizza.jfif');
+background-repeat: no-repeat;
+background-position: center;
+background-size:80%;
+backdrop-filter:blur(10px)
+}
     h1
-    {text-align: center; font-size: smaller;}
+    {text-align: center; font-size: 50px;}
     h2
-    {font-size: larger; text-align: center; text-decoration-color: rgb(255, 0, 34);}
-    h3{text-align:left; font-size: small;}
-    td,th{border-style: solid; border-color: rgb(255, 255, 255); background-color: aqua; }
+    {font-size: 80px ; text-align: center;}
+    h3{text-align: left ;}
+    h4 {text-align: right;}
+    td,th{ border-style: solid; border-color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); }
 
 
 </style>
 
 
       <h2>PIZZERIA</h2>
-  <h1>
-MENU
-    </h1>
-    <br>
-  <center> 
-<table><thead><tr>
+  <h1>MENU</h1>
+  <br> <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
+  <center>
+<table>
+    <thead><tr>
     <th></th>
     <th>KOLUMNA 1</th>
     <th>KOLUMNA 2</th>
@@ -41,27 +47,45 @@ MENU
 <td>przyklad</td>
 <td>przyklad</td>    
 </tr>
-<th>ez</th>
+<th>wow</th>
 <td>super</td>
+<td>przykład</td>
+<td>przykład</td>
 <tr>
     <th>sus</th>
+    <td>przyklad</td>
+    <td>przyklad</td>
+<td>przyklad</td>
 </tr>
 </tbody></table>
-  </center>
-  <h1> <img src="tenor (1).gif" alt="nie ma :D">
-  <h1> <img src="tenor.gif" alt="nie ma :D">
-  <h1> <img src="55lrtj.gif" alt="nie ma :D">
-  <h1> <img src="R.gif" alt="nie ma :D">
-   <h1> <img src="https://www.pngkey.com/png/detail/10-105533_lean-png.png"  alt="nie ma :D"> </center>
-</h1>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br><br> <br> <br> <br> <br> <br> <br> <br> <br> <br><br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
-<b>
-    <h2>
-<a href="https://www.bing.com/videos/search?q=vito+i+bbella&view=detail&mid=D7996ED70E9A6DF7D293D7996ED70E9A6DF7D293&FORM=VIRE">link</a>
-</h2>
-</b>
+
+
+
+ <img src="tel.png" width="80" height="80" style="margin-left:25px ; margin-right:25px" align="left" >
+
+
+
+
+
+
+
+<a href="https://www.instagram.com/"> 
+ <img src="ig.png" alt="nie znaleziono pliku" style="margin-left:25px ; margin-right:25px" align="center"
+ width="80" height="80" >
+</a>
+
+    
+<a href="jajo.pl"> 
+    <img src="fb.png" alt="nie znaleziono pliku" style="margin-left:25px ; margin-right:25px" align="center"
+    width="80" height="80">
+</a>
+ 
+
+
+
 
 
 
